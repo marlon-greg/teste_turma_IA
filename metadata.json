@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard de Gestão Pessoal",
+  "description": "Um dashboard completo para gestão de finanças, tarefas e notas com autenticação 100% local no navegador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
